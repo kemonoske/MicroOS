@@ -1,0 +1,1 @@
+copy /B stage1.bin + /B stage2.bin + /B stage3.bin /B boot.bin
